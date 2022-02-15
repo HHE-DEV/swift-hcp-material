@@ -17,7 +17,7 @@ Once you have brew installed, you can run the following command to install
 this command line tool.
 
 ```
-brew tap HHE-DEV/hcp-material && brew install hcp-material
+brew tap HHE-DEV/hcp-material && brew install swift-hcp-material
 ```
 
 Homebrew manages installation, un-installation, updates, and shell completion.
