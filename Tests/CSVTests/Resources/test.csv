@@ -1,0 +1,474 @@
+category,subcategory_1,subcategory_2,subcategory_3,subcategory_4,uuid,name,description,part_number,price,cost,taxable,unit_of_measure,material_markup_enabled
+Healthy Home Solutions,Humidifiers,Water Panels,"","",pbmat_973dbeb20a9c43e68c829cd97e71a31e,Aprilaire #10 - Water Panel,Replacement water panel for humidifiers that accept and Aprilaire #10.,AP10,$28.80,$7.20,false,Each,true
+Healthy Home Solutions,Humidifiers,Water Panels,"","",pbmat_fed39d2cfe284abea55d0428676efc2e,Aprilaire #12 - Water Panel,Replacement water panel for humidifiers that accept and Aprilaire #12.,AP12,$47.11,$13.46,false,Each,true
+Healthy Home Solutions,Humidifiers,Water Panels,"","",pbmat_9b924cd8d41d48b2b0c30345ab06641f,Aprilaire #35 - Water Panel,Replacement water panel for humidifiers that accept and Aprilaire #10.,AP35,$35.24,$10.07,false,Each,true
+Healthy Home Solutions,Humidifiers,Water Panels,"","",pbmat_3c2d09d20ed34f65a7f3093dd2424eb8,General 1099-20 - Water Panel,Replacement water panel for humidifiers that accept and General 1099-20.,7047,$50.05,$14.30,false,Each,true
+Healthy Home Solutions,Humidifiers,Water Panels,"","",pbmat_5e034ff669ad413e90c4565336cdcc83,General 990-13 - Water Panel,Replacement water panel for humidifiers that accept and General 990-13.,990-13,$35.64,$8.91,false,Each,true
+Healthy Home Solutions,Filtration,Media Filters,"","",pbmat_004c6ffe561d485888381d27bb3a4e45,Aprilaire 313 - Media Filter,Replacement Aprilaire 313 (MERV 13) media filter.,AP313,$65.00,$41.13,false,Each,false
+Healthy Home Solutions,Filtration,Media Filters,"","",pbmat_21e86f7132d34e8ebaf13959046bbf61, Aprilaire 213 - Media Filter,Replacement Aprilaire 213 (MERV 13) media filter.,AP213,$65.00,$45.69,false,Each,false
+Healthy Home Solutions,Filtration,Media Filters,"","",pbmat_266b15386bc447f4af19c75236c8d4cf,Aprilaire 216 - Media Filter,Replacement Aprilaire 216 (MERV 16) media filter.,AP216,$110.00,$87.52,false,Each,false
+Healthy Home Solutions,Filtration,Media Filters,"","",pbmat_910e3edf51fa40a794642b298bbb803a,Aprilaire 413 - Media Filter,Replacement Aprilaire 413 (MERV 13) media filter.,AP413,$65.00,$41.77,false,Each,false
+Healthy Home Solutions,Filtration,Media Filters,"","",pbmat_a1f23cda75714bf6835d51c0644c81c6,Aprilaire 416 - Media Filter,Replacement Aprilaire 310 (MERV 10) media filter.,AP416,$110.00,$87.52,false,Each,false
+Healthy Home Solutions,Filtration,Media Filters,"","",pbmat_0e918b31c23a4c17870771dabe369d63,Aprilaire 516 - Media Filter,Replacement Aprilaire 516 (MERV 16) media filter.,AP516,$150.00,$119.00,false,Each,false
+Healthy Home Solutions,Humidifiers,Humidifiers,"","",pbmat_66e019f0cfbd4af5a810ded92c356dd9,Basic Bypass Humidifier,"Basic bypass humidifier installation, for homes up to 4000 ft^2, delivers up to 17 gallons / day.",AP600A,$537.50,$250.00,false,Ea,true
+Healthy Home Solutions,Humidifiers,Humidifiers,"","",pbmat_f194dedea1e4422989b75f09c41e2e3a,Water Saver Bypass Humidifier,"The water saver bypass delivers maximum evaporation, covers up to 4000 ft^2, and up to 17 gallons / day.",AP400A,$569.75,$265.00,false,Each,true
+Healthy Home Solutions,Humidifiers,Humidifiers,"","",pbmat_fba40dc15ce84b239608408fbe951259,Steam Humidifier,Aprilaire 800 Steam Humidifier,AP800,$1720.00,$800.00,false,Ea,true
+Equipment,Air Handlers,Gold,"","",pbmat_eed06c548d49422db9ffb410f48a43f8,2-Ton Gold Air Handler,"Brand: Champion
+Model: AE24BX21
+
+• Multi-speed ECM blower motor
+• 10 year limited parts warranty",AE24BX21,$1548.00,$720.00,false,Ea,true
+Equipment,Heat Pumps,Silver,"","",pbmat_53ec663760fa4ca583025e865869334b,4-Ton Silver Heat Pump,"",NXH648GKA,$6813.35,$3169.00,false,Ea,true
+Equipment,Air Conditioners,Platinum,"","",pbmat_3004fee1a7014602adae6851c3a4e4cc,2-Ton High Capacity Platinum Air Conditioner,"",TVH925GKA,$5572.80,$2592.00,false,Ea,true
+Equipment,Boilers,Platinum,"","",pbmat_4218ec3002be4529b7ec4ea80508320f,Lochinvar Noble Boiler (110K BTU),Lochinvar Noble Boiler (110K BTU),,$4585.00,$2155.00,false,Ea,false
+Equipment,Geothermals,Splits,Compressor Units,"",pbmat_00b9234310234591959fd8cd749a2ecb,Climate Master 3-Ton Split,Climate Master 3-Ton Split,TES038BGD02CNNS,$9983.00,$4692.00,false,Ea,false
+Equipment,Heat Pumps,Gold,Champion,"",pbmat_47db0d655266487aafafbc5045583ce1,5-Ton Gold Heat Pump,"",TH16B6021S,$5682.45,$2643.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_29633f944dcc4dfaacb6c3dfb701f49d,45K-14 Bronze Furnace,45K-14 Bronze 80% Furnace,N80ESN0451412A,$1728.60,$804.00,false,Ea,true
+Equipment,Heat Pumps,Platinum,"","",pbmat_1ca9ff8f109d4e8b96ed16bc6d713cfe,3-Ton Platinum Heat Pump,"",TVH836GKA,$7172.40,$3336.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_0e190f129e154fbd954497d7dd34a2c3,2-Ton-14 Evaporator Coil,"",END4X24L14A,$834.20,$388.00,false,Ea,true
+Equipment,90% Furnaces,Gold,Champion,"",pbmat_50d038377323437e82500fd1b42f8a20,100K-21 Gold Furnace,Champion Model: TM9V100C20,TM9V100C20,$2924.00,$1360.00,false,Ea,true
+Equipment,Air Handlers,Platinum,"","",pbmat_e462b319842c4961b0032bc6204c97f1,3-Ton Platinum Air Handler,"",FCM4X3600AL,$3091.70,$1438.00,false,Ea,true
+Equipment,Heat Pumps,Bronze,"","",pbmat_b4dcabce360d4512914942656612b87d,3-Ton Bronze Heat Pump,3-Ton Bronze Heat Pump,N4H436GKG,$4231.20,$1968.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_1def1e414b1847308b5475293df57422,3.5-Ton-21 Evaporator Coil,"",END4X42L21A,$1137.35,$529.00,false,Ea,true
+Equipment,80% Furnaces,Platinum,"","",pbmat_32b2068f82b84689a8f657b24b6934ae,90K-21 Platinum Furnace,90K-21 Platinum 80% Furnace,F80CTL0902120A,$3388.40,$1576.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_c44cdb18438549a69dcaf8fcc0588782,3-Ton-21 Evaporator Coil,"",END4X36L21A,$980.40,$456.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,High Wall,Platinum,pbmat_1b1bb0f517d043d49837a9024185dad1,1-Ton Platinum Single Zone High Wall Unit,1-Ton Platinum Single Zone High Wall Unit,DLFPHAH12XAK,$1186.00,$557.00,false,Ea,false
+Equipment,Heat Pumps,Silver,"","",pbmat_07857328868e406aac17afd6bff86386,2-Ton Silver Heat Pump,"",NXH624GKA,$4669.80,$2172.00,false,Ea,true
+Equipment,90% Furnaces,Platinum,Tempstar,"",pbmat_d212a6dec64a465b9ba98f4df96f9d05,80K-21 Platinum Furnace,"",F97CMN0802120A,$5809.30,$2702.00,false,Ea,true
+Equipment,Heat Pumps,Gold,Bosch,"",pbmat_5b5fb3963a204c42b3381dd5b2591246,3-Ton Gold (Bosch M-20) Heat Pump,"Brand: Bosch
+Model: BOVA-36HDN1-M20G
+
+3-Ton Gold (Bosch M-20) Heat Pump
+
+• Non-communicating
+• Inverter driven compressor
+• Up to 20.5 SEER / 14 EER
+• 10 year limited parts warranty",BOVA-36HDN1-M20G,$6224.25,$2895.00,false,Ea,true
+Equipment,Heat Pumps,Gold,Champion,"",pbmat_6cca4846b47c4863b8a644c394ef9908,4-Ton Gold Heat Pump,"",TH16B4821S,$5114.85,$2379.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_46b4fff4b0f847e5b3d649ea408d10f1,30K-14 Bronze Furnace,30K-14 Bronze 80% Furnace,N80ESN0301410A,$1483.50,$690.00,false,Ea,true
+Equipment,Mini-Splits,Multi-Zone,Cassette,"",pbmat_7fad45b8a4784bf3aa7836121bcc43d4,Tempstar 18k Cassette,18k ceiling cassette,DLFSCAH18XAK + KSALG0101AAA,$1476.00,$738.00,false,Ea,false
+Equipment,Air Handlers,Gold,"","",pbmat_769f9949f4b145adaafa1a9f28a08f42,5-Ton Gold Air Handler,"",AE60DX21,$2171.50,$1010.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_f59ff95846234a78b6a518b40378964b,3.5-Ton-17 Evaporator Coil,"",END4X42L17A,$1137.35,$529.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_a179542491cd4e35a2532461e23cdef3,4-Ton-24 Evaporator Coil,"",END4X48L24A,$1234.10,$574.00,false,Ea,true
+Equipment,Air Handlers,Platinum,"","",pbmat_1cbaf12c11414c019b6b0c661d515935,4-Ton Platinum Air Handler,"",FCM4X4800AL,$3538.90,$1646.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_82954a5695914954b8a5f8a725bed961,60K-17 Bronze Furnace,"",N95ESN0601714A,$2601.50,$1210.00,false,Ea,true
+Equipment,Mini-Splits,Multi-Zone,High Wall,Bronze,pbmat_e2ea1348a2c14862a3c94e0e8ec15ef4,9K Wall Mount Entry,9K Wall Mount Entry Tier Mini-Split,DLFEHAH09XAK,$548.94,$258.00,false,Ea,false
+Equipment,Heat Pumps,Silver,"","",pbmat_92cd471cc3ac424680c845a1f47ce814,1.5-Ton Silver Heat Pump,"",NXH618GKA,$4231.20,$1968.00,false,Ea,true
+Equipment,90% Furnaces,Platinum,Tempstar,"",pbmat_0ca6f41e9d1747a0ae348e942de87ff6,60K-21 Platinum Furnace,"",F97CMN0602120A,$5579.25,$2595.00,false,Ea,true
+Equipment,Air Conditioners,Silver,"","",pbmat_2e9e077ae054442e877386b54ff70dd0,3-Ton Silver Air Conditioner,"• Quiet performance (as low as 76 decibels)*
+• Single-stage compressor operation",NXA636GKA,$4091.45,$1903.00,false,Ea,true
+Equipment,Heat Pumps,Gold,Tempstar,"",pbmat_562b6e58be554b4dbee242dd4f61e42e,3-Ton Two Stage Heat Pump,3-Ton Two Stage Heat Pump,TCH636GKA,$6108.15,$2841.00,false,Ea,true
+Equipment,90% Furnaces,Gold,Champion,"",pbmat_88579e657eb0443da06887ce44dfea1e,60K-17 Gold Furnace,Pricing Needs Updated,TM9V060B12,$2428.90,$1135.00,false,Ea,false
+Equipment,Air Handlers,Silver,"","",pbmat_233b6a7efe69428dbb85ab97487e44d8,1.5-Ton Silver Air Handler,"",FXM4X1800AL,$1885.55,$877.00,false,Ea,true
+Equipment,Heat Pumps,Platinum,"","",pbmat_d65ca4a85ad8468ca79f9ae513fd272d,3-Ton High Capacity Platinum Heat Pump,"",TVH837GKA,$8204.40,$3816.00,false,Ea,true
+Equipment,Heat Pumps,Bronze,"","",pbmat_6331f1bd699e4e19a89c9dbe38b60945,5-Ton Bronze Heat Pump,5-Ton Bronze Heat Pump,N4H460GKG,$6153.30,$2862.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,Ducted,Silver,pbmat_f1d1e68bf476488a9e00647dda72765a,1.5 Ton Silver Ducted Mini-Split Evap,1.5 Ton Silver Ducted Mini-Split Evap,DLFSDAH18XAK,$1766.00,$830.00,false,Ea,false
+Equipment,Mini-Splits,Multi-Zone,Heat Pumps,"",pbmat_5100d53fd94b417e86c82506f11ea5ed,Tempstar 1.5 Ton,1.5 Ton Multi-Zone Outdoor Condenser,DLCMRAH18BAK,$2836.17,$1333.00,false,Ea,false
+Equipment,Heat Pumps,Platinum,"","",pbmat_7839f7050eb54f0dacdc4e87e7af62cb,4-Ton Platinum Heat Pump,"",TVH848GKA,$8335.55,$3877.00,false,Ea,true
+Equipment,Buffer Tanks,"","","",pbmat_f000d669e30d43709a8c39e1ac795029,Lochinvar Squire Buffer Tank (50 gallon),Lochinvar Squire Buffer Tank (50 gallon),SBT050,$2873.00,$1350.00,false,Ea,false
+Equipment,Air Handlers,Silver,"","",pbmat_1b41aa11d7d14642a12f8c68c12b5b52,3-Ton Silver Air Handler,"",FXM4X3600AL,$2289.75,$1065.00,false,Ea,true
+Equipment,Boilers,Combi,Platinum,"",pbmat_0f90cf0394964ebe9618482c25374db4,Noble Combi-Boiler (199K BTU),Noble Combi-Boiler (199K BTU),NKC199N,$6181.00,$2905.00,false,Ea,false
+Equipment,Evaporator Coils,"","","",pbmat_2813f56cbfc343a1941f667f8407552f,1.5-Ton-14 Evaporator Coil,"",END4X18L14A,$780.45,$363.00,false,Ea,true
+Equipment,Mini-Splits,Multi-Zone,Heat Pumps,"",pbmat_f27dbee6bd2d4f018b01434539c4d0d6,Tempstar 3-Ton,3-Ton multi-zone heat pump condenser,DLCMRAH36DAK,$4826.00,$2172.00,false,Ea,false
+Equipment,Water Heaters,Heat Pump Water Heaters,Platinum,"",pbmat_84fa5303f0a0461f93bf6079274d1c52,Rheem 50 Gallon Heat Pump Water Heater,Rheem Model: PROPH50 T2 RH375-SO,PROPH50 T2 RH375-SO,$3902.00,$1834.02,false,Ea,false
+Equipment,Air Conditioners,Silver,"","",pbmat_2892909f67af4bdeb90a283ab0552810,5-Ton Silver Air Conditioner,"• Quiet performance (as low as 76 decibels)*
+• Single-stage compressor operation",NXA660GKA,$5977.00,$2780.00,false,Ea,true
+Equipment,90% Furnaces,Gold,Champion,"",pbmat_3972a3bff3684262836279fe747c72ee,80K-17 Gold Furnace,Pricing Needs Updated,TM9V080B12,$2548.74,$1191.00,false,Ea,false
+Equipment,90% Furnaces,Silver,"","",pbmat_4ada3b8dcd3845db83c94776e6cadb63,60K-17 Silver Furnace,"Tempstar Model: F96VTN0601714A  • 60,000 BTU/H • 2-Stage gas valve  • Variable speed blower motor  • 5-Year No Hassle Replacement™ Limited Warranty  • 10-Year Parts Limited Warranty upon timely registration  • Lifetime Heat Exchanger Limited Warranty upon timely registration ",F96VTN0601714A,$3035.80,$1412.00,false,Ea,true
+Equipment,Electric Heat Strips,"","","",pbmat_1eafd94fb5c5472188b7a2aa7035a00f,20KW Electric Heat Strips,"",EHK20AKB,$509.55,$237.00,false,Ea,true
+Equipment,90% Furnaces,Silver,"","",pbmat_bcbf7faec7814bb887d7bacaa6c7cc46,80K-17 Silver Furnace,"",F96VTN0801716A,$3528.15,$1641.00,false,Ea,true
+Equipment,Air Handlers,Silver,"","",pbmat_b63346585df349bf99502e62fd877017,2-Ton Silver Air Handler,"Brand: Tempstar
+Model: FXM4X2400AL
+
+• Multi-speed ECM blower motor
+• 10 year limited parts warranty
+• 5-year No Hassle Replacement™ limited warranty+",FXM4X2400AL,$1986.60,$924.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,Heat Pumps,Silver,pbmat_4556358e47aa48ccbe398bcc1e1ca4f3,2 Ton Silver Mini-Split Outdoor,2 Ton Silver Mini-Split Outdoor,DLCSRBH24AAK,$3692.00,$1735.00,false,Ea,false
+Equipment,Evaporator Coils,"","","",pbmat_c3dd300648f14f159e249be7342d91ab,3-Ton-17 High Capacity Evaporator Coil,"",END4X37L17A,$1193.25,$555.00,false,Ea,true
+Equipment,Air Conditioners,Platinum,"","",pbmat_e6620c677edd456abd8c9537fdd13f79,5-Ton Platinum Air Conditioner,"",TVH960GKA,$7740.00,$3600.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_726bf24fa3ab4de2b9e5cf0060de52ed,2.5-Ton-17 Evaporator Coil,"",END4X30L17A,$905.15,$421.00,false,Ea,true
+Equipment,Indirect Water Heaters,"","","",pbmat_fe45607ac7484255ab9ba090258ee5ca,Lochinvar Glass Lined Indirect Water Heater (80 gallon),Lochinvar Glass Lined Indirect Water Heater (80 gallon),GIT080,$3692.00,$1735.00,false,Ea,false
+Equipment,80% Furnaces,Platinum,"","",pbmat_770a9196c13e46ba893267475421450f,90K-17 Platinum Furnace,90K-17 Platinum 80% Furnace,F80CTL0901716A,$3407.75,$1585.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_57a8197841304bca9e29c7d73ddd9546,5-Ton-24 Evaporator Coil,"",END4X60L24A,$1384.60,$644.00,false,Ea,true
+Equipment,Air Conditioners,Silver,"","",pbmat_89e197a110ab4850b036421f76c08bbe,2-Ton Silver Air Conditioner,"• Quiet performance (as low as 76 decibels)*
+• Single-stage compressor operation",NXA624GKA,$3319.60,$1544.00,false,Ea,true
+Equipment,90% Furnaces,Silver,"","",pbmat_be999aa8ef544b48a61873afb2e0e151,120K-24 Silver Furnace,"",F96VTN1202422A,$3951.70,$1838.00,false,Ea,true
+Equipment,Electric Heat Strips,"","","",pbmat_18be6133ef7b4c31bb60fea021bbcc89,5KW Electric Heat Strips,"",EHK05AKB,$218.13,$96.95,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_5c809ddf15a34f76bfd49e251f393457,140K-24 Bronze Furnace,"",N95ESN1402422A,$3414.20,$1588.00,false,Ea,true
+Equipment,Air Conditioners,Bronze,"","",pbmat_2a9276cda42a41218396b7e703d07c77,2.5-Ton Bronze Air Conditioner,"• Quiet performance (as low as 75 decibels)*
+• Single-stage compressor operation",NXA430LKA,$2969.15,$1381.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_60d0fd5e33534dfa89ba0250d4955323,135K-24 Bronze Furnace,"Tempstar Model: N80ESN1352420A
+
+• 135,000 BTU/H
+• 1-Stage gas valve 
+• ECM blower motor 
+• 10-Year Parts Limited Warranty upon timely registration 
+• 20-Year Heat Exchanger Limited Warranty upon timely registration ",N80ESN1352420A,$2272.55,$1057.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_8b992f82820a4979bee0d5388fa0571f,Boiler Material Package,Boiler Material Package,"",$3225.00,$1500.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,High Wall,Silver,pbmat_9677286f9cb44c4490de874bd511ca69,2 Ton Silver High Wall Mini-Split,2 Ton Silver High Wall Mini-Split,DLFSHAH24XAK,$1264.00,$594.00,false,Ea,false
+Equipment,Air Conditioners,Platinum,"","",pbmat_50423e5d571a4984a411206535e5afff,3-Ton High Capacity Platinum Air Conditioner,"",TVH937GKA,$7043.40,$3276.00,false,Ea,true
+Equipment,Mini-Splits,Multi-Zone,Heat Pumps,"",pbmat_5b4477b886794f029521d8c365976e16,Tempstar 1.5-Ton,Tempstar 1.5-Ton,DLCMRAH18BAK,$2892.00,$1359.00,false,Ea,false
+Equipment,Heat Pumps,Silver,"","",pbmat_a9bbe6cba09d4b838a47672ced1b4168,2.5-Ton Silver Heat Pump,"",NXH630GKA,$5142.80,$2392.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,Heat Pumps,Bronze,pbmat_f859a3ddcaa249a3b9b918d7f9cde1a9,1-Ton Bronze Single Zone Mini-Split Heat Pump,1-Ton Bronze Single Zone Mini-Split,DLCERAH12AAK,$1200.00,$594.00,false,Ea,false
+Equipment,Geothermals,Splits,Compressor Units,"",pbmat_84fc0e3be7504f27a960a76cf5ebd407,Climate Master 5-Ton Split,Climate Master 5-Ton Split,TES064BGD02CNNS,$11868.00,$5578.00,false,Ea,false
+Equipment,90% Furnaces,Silver,"","",pbmat_d919131a50ec4dad8cf94c10b8b646af,100K-21 Silver Furnace,"",F96VTN1002122A,$3747.45,$1743.00,false,Ea,true
+Equipment,Air Conditioners,Bronze,"","",pbmat_8a981858f3444663a529842406e3f4f1,3-Ton Bronze Air Conditioner,"• Quiet performance (as low as 75 decibels)*
+• Single-stage compressor operation",NXA436LKA,$3117.50,$1450.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_b65a63e3abc642928ec9208e5bae47a5,90K-24 Bronze Furnace,"Tempstar Model: N80ESN0902420A
+
+• 90,000 BTU/H
+• 1-Stage gas valve 
+• ECM blower motor 
+• 10-Year Parts Limited Warranty upon timely registration 
+• 20-Year Heat Exchanger Limited Warranty upon timely registration ",N80ESN0902420A,$2154.30,$1002.00,false,Ea,true
+Equipment,Air Conditioners,Silver,"","",pbmat_7feaa3a6a1684897b503e3f8ed8072ec,4-Ton Silver Air Conditioner,"• Quiet performance (as low as 76 decibels)*
+• Single-stage compressor operation",NXA648GKA,$4886.95,$2273.00,false,Ea,true
+Equipment,Mini-Splits,Bronze,"","",pbmat_c461cb20351f4c5291555c3cf912855e,2-Ton Bronze High Wall Mini-Split,2-Ton Bronze High Wall Mini-Split,DLFEHAH24XAK,$1319.00,$620.00,false,Ea,false
+Equipment,Evaporator Coils,"","","",pbmat_1172dfbecded47bfaa9f9ab88d69422e,2-Ton-17 Evaporator Coil,"",END4X24L17A,$834.20,$388.00,false,Ea,true
+Equipment,Air Handlers,Silver,"","",pbmat_9e1af70c409d4317a9d4a94b951e55a9,2.5-Ton Silver Air Handler,"",FXM4X3000AL,$2119.90,$986.00,false,Ea,true
+Equipment,Air Conditioners,Silver,"","",pbmat_645b5fcb3804493c99c35a754d20aabf,2.5-Ton Silver Air Conditioner,"• Quiet performance (as low as 76 decibels)*
+• Single-stage compressor operation",NXA630GKA,$3586.20,$1668.00,false,Ea,true
+Equipment,Air Conditioners,Platinum,"","",pbmat_3d6d885fc440401f9a4e74f78f6eae6a,4-Ton High Capacity Platinum Air Conditioner,"",TVH949GKA,$7922.75,$3685.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_048072901c5b4c8a94e11959230758c4,110K-21 Bronze Furnace,"Tempstar Model: N80ESN1102120A
+
+• 110,000 BTU/H
+• 1-Stage gas valve 
+• ECM blower motor 
+• 10-Year Parts Limited Warranty upon timely registration 
+• 20-Year Heat Exchanger Limited Warranty upon timely registration ",N80ESN1102120A,$2195.15,$1021.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_e2b6436de08145b8ab042af6f69e45cc,70K-21 Bronze Furnace,70K-21 Bronze 80% Furnace,N80ESN0702116A,$1814.60,$844.00,false,Ea,true
+Equipment,80% Furnaces,Platinum,"","",pbmat_762edacaeb8644b294df27dca42df524,135K-24 Platinum Furnace,135K-24 Platinum 80% Furnace,F80CTL1352422A,$3805.50,$1770.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_82c895765e554fda97ece50a6ce86fdb,Indoor Material Package,Indoor Material Package,"",$1075.00,$500.00,false,Ea,true
+Equipment,Heat Pumps,Platinum,"","",pbmat_5c9de499d77840c0b83948a8864299a7,2-Ton High Capacity Platinum Heat Pump,"",TVH825GKA,$7077.80,$3292.00,false,Ea,true
+Equipment,90% Furnaces,Platinum,Tempstar,"",pbmat_60a5fa6109e446b18ad613d9c9473394,60K-17 Platinum Furnace,Tempstar Model: F97CMN0601714A,F97CMN0601714A,$4781.60,$2224.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,Heat Pumps,Platinum,pbmat_702c79a67fbb45df978d39d0591cf131,1-Ton Platinum Single Zone Mini-Split Heat Pump,1-Ton Platinum Single Zone Mini-Split Heat Pump,DLCPRAH12AAK,$2361.00,$1251.00,false,Ea,false
+Equipment,Electric Heat Strips,"","","",pbmat_f48e14873b694aac9ee971fc4f6b0181,10KW Electric Heat Strips,"",EHK10AKB,$274.50,$122.00,false,Ea,true
+Equipment,90% Furnaces,Silver,"","",pbmat_a58feb495a7742518abbfe079ab7ea56,80K-21 Silver Furnace,"",F96VTN0802120A,$3659.30,$1702.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_d935cfebbd934b7bb787cfcb9897a9dd,80K-17 Bronze Furnace,"",N95ESN0801716A,$2816.50,$1310.00,false,Ea,true
+Equipment,Air Conditioners,Bronze,"","",pbmat_7e1d68ffe84f4d209d12fc0c36bda256,3.5-Ton Bronze Air Conditioner,"• Quiet performance (as low as 75 decibels)*
+• Single-stage compressor operation",NXA442LKA,$3936.65,$1831.00,false,Ea,true
+Equipment,Heat Pumps,Bronze,"","",pbmat_84ff4d12108247cb8fda43d19d1ee394,1.5-Ton Bronze Heat Pump,"Brand: Tempstar
+Model: N4H418GKG
+
+1.5-Ton Bronze Heat Pump
+
+• 1-Stage compressor
+• Up to 14 SEER / 11.5 EER
+• Quiet performance (as low as 69 decibels)*
+• 10 year limited warranty",N4H418GKG,$3252.95,$1513.00,false,Ea,true
+Equipment,90% Furnaces,Silver,"","",pbmat_3663f3dd54ad4688a5d91c76a93186ee,40K-14 Silver Furnace,"",F96VTN0401410A,$2904.65,$1351.00,false,Ea,true
+Equipment,Geothermals,Splits,Coils,"",pbmat_a085654824e9469985975c15aaf4de95,"Climate Master 3-Ton Coil",Climate Master 3-Ton Coil,TAC038BM21S,$1124.00,$528.00,false,Ea,false
+Equipment,Heat Pumps,Platinum,"","",pbmat_f815367bc83a4bcd955cbc54d5dba6e2,2-Ton Platinum Heat Pump,"Brand: Tempstar
+Model: TVH824GKA
+
+• 5-Stage Inverter Compressor
+• Up to 19 SEER / 13 EER
+• As low as 56 decibels
+• 10 Year limited parts warranty
+• 10-Year No Hassle Replacement™ Limited Warranty+",TVH824GKA,$6555.35,$3049.00,false,Ea,true
+Equipment,90% Furnaces,Silver,"","",pbmat_54e4b71357164ca0b9dd9737d70647c9,60K-14 Silver Furnace,"",F96VTN0601412A,$3035.80,$1412.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_1025ceb48d844ca6a6df4fd4039b1caf,70K-14 Bronze Furnace,70K-14 Bronze 80% Furnace,N80ESN0701412A,$1782.35,$829.00,false,Ea,true
+Equipment,Heat Pumps,Bronze,"","",pbmat_87f417e182034005bf9e0f42390811f8,2-Ton Bronze Heat Pump,2-Ton Bronze Heat Pump,N4H424GKG,$3467.95,$1613.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_e5977b16971242918c998c63f3d13a80,40K-17 Bronze Furnace,"",N95ESN0401712A,$2466.05,$1147.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_494f53e624e744e18cfbaa35238e912b,26K-14 Bronze Furnace,"",N95ESN0261410A,$2388.65,$1111.00,false,Ea,true
+Equipment,80% Furnaces,Platinum,"","",pbmat_51ec46c2cee540d0a4898fafd9b5d37b,70K-17 Platinum Furnace,70K-17 Platinum 80% Furnace,F80CTL0701716A,$3250.80,$1512.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_4a11ac3020874d828d3480a2ed4908cf,155K-24 Bronze Furnace,"Tempstar Model: N80ESN1552420A
+
+• 155,000 BTU/H
+• 1-Stage gas valve 
+• ECM blower motor 
+• 10-Year Parts Limited Warranty upon timely registration 
+• 20-Year Heat Exchanger Limited Warranty upon timely registration ",N80ESN1552420A,$2448.85,$1139.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,High Wall,Bronze,pbmat_e67a129d1c474b0aa2b8c962a08937a8,1-Ton Bronze Mini-Split High Wall Unit,1-Ton Bronze Mini-Split High Wall Unit,DLFEHAH12XAK,$610.00,$305.00,false,Ea,false
+Equipment,Mini-Splits,Single-Zone,Heat Pumps,Silver,pbmat_4e2ef708a9b84b6796b622568b78c569,1-Ton Silver Mini-Split Heat Pump,1-Ton Silver Mini-Split Heat Pump,DLCSRAH12AAK,$1910.00,$955.00,false,Ea,false
+Equipment,Air Conditioners,Platinum,"","",pbmat_389440afd0d74d85a97014a586eb7ab3,2-Ton Platinum Air Conditioner,"",TVH924GKA,$5054.65,$2351.00,false,Ea,true
+Equipment,Air Handlers,Gold,"","",pbmat_e31dd5233d0a491faa26be6d507eaec3,3-Ton Gold Air Handler,"",AE36CX21,$1625.40,$756.00,false,Ea,true
+Equipment,Air Conditioners,Bronze,"","",pbmat_c2c8c8abbdcc4ab7964c7db84e379385,2-Ton Bronze Air Conditioner,"• Quiet performance (as low as 75 decibels)*
+• Single-stage compressor operation",NXA424LKA,$2704.70,$1258.00,false,Ea,true
+Equipment,Air Handlers,Platinum,"","",pbmat_5c5fb469dc684393a4b03c7255163b87,2-Ton Platinum Air Handler,"Brand: Tempstar
+Model: FCM4X2400AL
+
+• Communicating air handler
+• Variable speed blower motor
+• 10 Year limited parts warranty
+• 10-year No Hassle Replacement™ limited warranty+",FCM4X2400AL,$2655.25,$1235.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_b5934494100b40229a5ec3f46076a3f0,2.5-Ton-14 Evaporator Coil,"",END4X30L14A,$905.15,$421.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_482d246cf0e946cdb252510c4f773087,60K-14 Bronze Furnace,"",N95ESN0601412A,$2573.55,$1197.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_0e0f0faa741540bd8cb26bd416da8270,Water Heater Material Package,Water Heater Material Package,"",$505.25,$235.00,false,Ea,true
+Equipment,Air Handlers,Silver,"","",pbmat_a45cc706016741b0b6ea0754f20eea0e,4-Ton Silver Air Handler,"",FXM4X4800AL,$2818.65,$1311.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_a3077d30f34f4f69a1122c20d351c6c1,40K-14 Bronze Furnace,"",N95ESN0401410A,$2444.55,$1137.00,false,Ea,true
+Equipment,Air Conditioners,Platinum,"","",pbmat_dd0726db8cb84ee481899eefe300dcb4,3-Ton Platinum Air Conditioner,"",TVH936GKA,$6009.25,$2795.00,false,Ea,true
+Equipment,Air Handlers,Silver,"","",pbmat_9ad2c720614d482db980e3f8c8ae48af,5-Ton Silver Air Handler,"",FXM4X6000AL,$2990.65,$1391.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_c87da60e2dde42c89ea1d88c72ce554b,5-Ton-24 High Capacity Evaporator Coil,"",END4X61L24A,$1612.50,$750.00,false,Ea,true
+Equipment,80% Furnaces,Platinum,"","",pbmat_9cbdf1b94c8d47498c33948532a78ccb,110K-21 Platinum Furnace,110K-21 Platinum Furnace,F80CTL1102120A,$3599.10,$1674.00,false,Ea,true
+Equipment,Air Conditioners,Bronze,"","",pbmat_7fbeb47a88704fda9c978de49159a15c,4-Ton Bronze Air Conditioner,"• Quiet performance (as low as 75 decibels)*
+• Single-stage compressor operation",NXA448LKA,$4321.50,$2010.00,false,Ea,true
+Equipment,Geothermals,Loops,"","",pbmat_1148e2897fbc4f18b5b09f17e7a3abdf,Loop per Ton,Geothermal Loop per Ton,,$3063.00,$2450.00,false,Ea,false
+Equipment,90% Furnaces,Gold,Champion,"",pbmat_e23ffd135216443d89777a3473ae4066,80K-21 Gold Furnace,Pricing Needs Updated,TM9V080C16,$2642.90,$1235.00,false,Ea,false
+Equipment,Electric Heat Strips,"","","",pbmat_13179d60b18d4d249d98350ec59f0ffc,15KW Electric Heat Strips,"",EHK15AKB,$395.60,$184.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,Ducted,Silver,pbmat_b1735d6a875e40579ab19642f2a371cc,1-Ton Silver Ducted Mini-Split Evap.,1-Ton Silver Ducted Mini-Split Evap.,,$1240.00,$619.00,false,Ea,false
+Equipment,90% Furnaces,Platinum,Tempstar,"",pbmat_61e95be6ebc142c69ccc61aaeb59e3dd,80K-17 Platinum Furnace,"",F97CMN0801714A,$5501.85,$2559.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_f73dd6e9520d4945b49925904ff1f63f,4-Ton-21 Evaporator Coil,"",END4X48L21A,$1234.10,$574.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,High Wall,Silver,pbmat_9333cfbb5a9546b996ca9a6cc15440da,1-Ton Silver Mini-Split High Wall Unit,1-Ton Silver Mini-Split High Wall Unit,DLFSHAH12XAK,$779.00,$366.00,false,Ea,false
+Equipment,90% Furnaces,Gold,Champion,"",pbmat_d776789ef8b24bfc906b9f50568b8003,120K-24 Gold Furnace,Pricing Needs Updated,TM9V120D20,$3047.36,$1424.00,false,Ea,false
+Equipment,Air Handlers,Platinum,"","",pbmat_1a6187a0a50e44f981f3bbe0eda3530a,5-Ton Platinum Air Handler,"",FCM4X6000AL,$3689.40,$1716.00,false,Ea,true
+Equipment,Air Conditioners,Silver,"","",pbmat_4b0cf02fe51345f0b94cd34516c9618e,3.5-Ton Silver Air Conditioner,"• Quiet performance (as low as 76 decibels)*
+• Single-stage compressor operation",NXA642GKA,$4525.75,$2105.00,false,Ea,true
+Equipment,Mini-Splits,Multi-Zone,High Wall,Bronze,pbmat_0cd85582493b419bae0d6113b8ddcb5b,12K Wall Mount Entry,12K Wall Mount Entry,DLFEHAH12XAK,$662.00,$311.00,false,Ea,false
+Equipment,80% Furnaces,Bronze,"","",pbmat_c32579688c6545d18e0551a91f822ea5,70K-17 Bronze Furnace,70K-17 Bronze 80% Furnace,N80ESN0701712A,$1801.70,$838.00,false,Ea,true
+Equipment,Mini-Splits,Multi-Zone,Cassette,"",pbmat_74a6b3e1b73745428c2cda0e3414a51b,Tempstar 12k Cassette,12k indoor ceiling cassette,DLFSCAH12XAK + KSALG010AAA,$1310.00,$655.00,false,Ea,false
+Equipment,80% Furnaces,Platinum,"","",pbmat_7c6fa5a52e96402c9b96c7aeed46839f,70K-21 Platinum Furnace,70K-21 Platinum 80% Furnace,F80CTL0702120A,$3388.40,$1576.00,false,Ea,true
+Equipment,Heat Pumps,Bronze,"","",pbmat_ed6dd298c47a4354af11d3f5c86c1be8,2.5-Ton Bronze Heat Pump,2.5-Ton Bronze Heat Pump,N4H430GKG,$3919.45,$1823.00,false,Ea,true
+Equipment,Heat Pumps,Bronze,"","",pbmat_e3f245ca34b7420cab021084a61e6116,3.5-Ton Bronze Heat Pump,3.5-Ton Bronze Heat Pump,N4H442GKG,$4960.05,$2307.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_968fcd3d321b459a9dc4f84da4ad627f,Outdoor Material Package,Outdoor Material Package,"",$1075.00,$500.00,false,Ea,true
+Equipment,Air Conditioners,Silver,"","",pbmat_e84624f5adcb4096a9671b588f7fc519,1.5-Ton Silver Air Conditioner,"• Quiet performance (as low as 76 decibels)*
+• Single-stage compressor operation",NXA618GKA,$3080.95,$1433.00,false,Ea,true
+Equipment,Air Conditioners,Platinum,"","",pbmat_071ea88caa4d4709afbd617ed210f334,4-Ton Platinum Air Conditioner,"",TVH948GKA,$6888.60,$3204.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_070d1e75f3144c55b641d402c42b27b9,80K-21 Bronze Furnace,"",N95ESN0802120A,$2838.00,$1320.00,false,Ea,true
+Equipment,90% Furnaces,Silver,"","",pbmat_c439a15f076f47c08cd44e5a9639e6e3,40K-17 Silver Furnace,"",F96VTN0401712A,$2904.65,$1351.00,false,Ea,true
+Equipment,Geothermals,Splits,Coils,"",pbmat_e00d6b84f47140d783cf6f33f32c51e6,"Climate Master 5-Ton Coil","Climate Master 5-Ton Coil",TAC064BM24S,$1747.00,$821.00,false,Ea,false
+Equipment,Heat Pumps,Gold,Champion,"",pbmat_00ce3e6195734f1f8871cfbe07972045,2-Ton Gold Heat Pump,"Brand: Champion
+Model: TH16B2421S
+
+• 5-Stage inverter driven compressor
+• Up to 18 SEER
+• 10 year limited warranty",TH16B2421S,$4377.40,$2036.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_dcee05723b9149059684730bbf89c76d,110K-24 Bronze Furnace,"Tempstar Model: N80ESN1102420A
+
+• 110,000 BTU/H
+• 1-Stage gas valve 
+• ECM blower motor 
+• 10-Year Parts Limited Warranty upon timely registration 
+• 20-Year Heat Exchanger Limited Warranty upon timely registration ",N80ESN1102420A,$2214.50,$1030.00,false,Ea,true
+Equipment,Indirect Water Heaters,"","","",pbmat_273ca5a479d34ff5b64e2474d2f94024,Lochinvar Squire Indirect Water Heater (80 gallon),Lochinvar Squire Indirect Water Heater (80 gallon),SIT 80.00,$4096.00,$1925.00,false,Ea,false
+Equipment,Heat Pumps,Bronze,"","",pbmat_459409fcab7b49e68448385683264e3a,4-Ton Bronze Heat Pump,4-Ton Bronze Heat Pump,N4H448GKG,$5519.05,$2567.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_a60cff9bcb7d4b9f90abee5630451f95,90K-17 Bronze Furnace,"Tempstar Model: N80ESN0901714A
+
+• 90,000 BTU/H
+• 1-Stage gas valve 
+• ECM blower motor 
+• 10-Year Parts Limited Warranty upon timely registration 
+• 20-Year Heat Exchanger Limited Warranty upon timely registration ",N80ESN0901714A,$2046.80,$952.00,false,Ea,true
+Equipment,90% Furnaces,Platinum,Tempstar,"",pbmat_fd283b89a9e14bcaa1396000b1b603bd,120K-24 Platinum Furnace,"",F97CMN1202422A,$6497.30,$3022.00,false,Ea,true
+Equipment,Air Handlers,Silver,"","",pbmat_57df887b477a4c468e664e73907cb1b2,3.5-Ton Silver Air Handler,"",FXM4X4200AL,$2560.65,$1191.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,Heat Pumps,Bronze,pbmat_10ed06acc23a49dbbfe71d8bffad6508,2-Ton Bronze Mini-Split Outdoor HP,2-Ton Bronze Mini-Split Outdoor HP,DLCERAH24AAK,$2728.00,$1282.00,false,Ea,false
+Healthy Home Solutions,Filtration,Media Filter Cabinets,"","",pbmat_3161d38e077a4a60bf3b07cd7708a9f2,Aprilaire 2210 (20 x 25) Media Air Cleaner - MERV 13,Aprilaire 2210 (20 x 25) Media Air Cleaner - MERV 13,AP2210,$303.75,$135.00,false,Ea,true
+Equipment,80% Furnaces,Platinum,"","",pbmat_5d7f03cebe80466c9e6e5c29662430a5,70K-14 Platinum Furnace,70K-14 Platinum 80% Furnace,F80CTL0701412A,$2926.15,$1361.00,false,Ea,true
+Equipment,Heat Pumps,Gold,Bosch,"",pbmat_4990b860c858439bb397fd3085cc1636,3-Ton Gold (Bosch - M18) Heat Pump,"Brand: Bosch
+Model: BOVB-36HDN1-M18M
+
+• Non-communicating
+• Inverter driven compressor
+• Up to 18.5 SEER / 13 EER
+• 10 year limited parts warranty",BOVB-36HDN1-M18M,$4407.50,$2050.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_d901aae909ca447b9f2f3051776b1321,3-Ton-17 Evaporator Coil,"",END4X36L17A,$980.40,$456.00,false,Ea,true
+Equipment,Air Handlers,Gold,"","",pbmat_1171911163804b2e8a3a1b8d5f0c6cd5,4-Ton Gold Air Handler,"",AE48DX21,$2051.10,$954.00,false,Ea,true
+Equipment,80% Furnaces,Platinum,"","",pbmat_2581003fdb1644bcbd26c44a27164195,45K-17 Platinum Furnace,45K-17 Platinum 80% Furnace,F80CTL0451712A,$2913.25,$1355.00,false,Ea,true
+Equipment,Heat Pumps,Gold,Tempstar,"",pbmat_858cadcff5fd4d86b956675e24adbad2,2-Ton Two Stage Heat Pump,2-Ton Two Stage Heat Pump,TCH624GKA,$5104.10,$2374.00,false,Ea,true
+Equipment,Air Conditioners,Bronze,"","",pbmat_c847c58828284e438eba147398cc22e4,1.5-Ton Bronze Air Conditioner,"• Quiet performance (as low as 75 decibels)*
+• Single-stage compressor operation",NXA418LKA,$2369.30,$1102.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_44a1bfffc37644dfafeff0ff5cf028dd,90K-21 Bronze Furnace,"Tempstar Model: N80ESN0902120A
+
+• 90,000 BTU/H
+• 1-Stage gas valve 
+• ECM blower motor 
+• 10-Year Parts Limited Warranty upon timely registration 
+• 20-Year Heat Exchanger Limited Warranty upon timely registration ",N80ESN0902120A,$2104.85,$979.00,false,Ea,true
+Equipment,90% Furnaces,Bronze,"","",pbmat_5a190f01b7864df383ecacdf71fc7337,120K-24 Bronze Furnace,"",N95ESN1202422A,$3283.05,$1527.00,false,Ea,true
+Equipment,Air Conditioners,Bronze,"","",pbmat_e96363f8faa946f4b65eff7a90cc942d,5-Ton Bronze Air Conditioner,"• Quiet performance (as low as 75 decibels)*
+• Single-stage compressor operation",NXA460LKA,$5054.65,$2351.00,false,Ea,true
+Equipment,80% Furnaces,Bronze,"","",pbmat_5bb0da65e9254465b6fe3762d22fd6f7,45K-17 Bronze Furnace,45K-17 Bronze 80% Furnace,N80ESN0451712A,$1743.65,$811.00,false,Ea,true
+Equipment,Heat Pumps,Silver,"","",pbmat_5fb67a960a5448fdbde75ff9f5bf7bec,3.5-Ton Silver Heat Pump,"",NXH642GKA,$6262.95,$2913.00,false,Ea,true
+Equipment,Buffer Tanks,"","","",pbmat_ede4f12e95274dfe8f7c90066c45eb1b,Lochinvar Squire Buffer Tank (30 gallon),Lochinvar Squire Buffer Tank (30 gallon),SBT030,$2139.00,$1005.00,false,Ea,false
+Equipment,90% Furnaces,Bronze,"","",pbmat_97a506758e924c0984d4d46f613fa277,100K-21 Bronze Furnace,"",N95ESN1002122A,$3143.30,$1462.00,false,Ea,true
+Equipment,Mini-Splits,Multi-Zone,Heat Pumps,"",pbmat_7ee1fcfa778b40db9b10f583279c0871,Tempstar 2-Ton,2-Ton Multi-Zone Outdoor Condenser,DLCMRAH27CAK,$3404.00,$1702.00,false,Ea,false
+Equipment,Heat Pumps,Silver,"","",pbmat_3747b49f748c484885faefe64d9ff815,3-Ton Silver Heat Pump,"",NXH636GKA,$5665.25,$2635.00,false,Ea,true
+Equipment,Heat Pumps,Gold,Champion,"",pbmat_d7e85654d4b44cd3bd047afabec02d6b,3-Ton Gold Heat Pump,"",TH16B3621S,$4605.30,$2142.00,false,Ea,true
+Equipment,Evaporator Coils,"","","",pbmat_c2a6d5d7e7094703a8c7c2cdd0700491,3.5-Ton-24 High Capacity Evaporator Coil,"",END4X43L24A,$1350.20,$628.00,false,Ea,true
+Equipment,90% Furnaces,Platinum,Tempstar,"",pbmat_51571be16a764cbd9aad68c5e2c90700,100K-21 Platinum Furnace,Tempstar Model: F97CMN1002122A,F97CMN1002122A,$6028.60,$2804.00,false,Ea,true
+Equipment,Heat Pumps,Platinum,"","",pbmat_ff3ee036bbbc40ef83a818604a2d1e8c,5-Ton Platinum Heat Pump,"",TVH860GKA,$9180.50,$4270.00,false,Ea,true
+Healthy Home Solutions,Filtration,Media Filter Cabinets,"","",pbmat_16b24ebfcd674da3be080343b6364d11,Aprilaire 1510 (31 x 28) - Media Air Cleaner - MERV 11,Aprilaire 1510 (31 x 28) - Media Air Cleaner - MERV 11,AP1510,$337.55,$157.00,false,Each,true
+Healthy Home Solutions,Filtration,Media Filter Cabinets,"","",pbmat_4271c28e43f5405cafc355d4d354c7de,Aprilaire 2216 (20 x 25) - Media Air Cleaner - MERV 16,Aprilaire 2216 (20 x 25) - Media Air Cleaner - MERV 16,AP2216,$387.00,$180.00,false,Each,true
+Healthy Home Solutions,Filtration,Media Filter Cabinets,"","",pbmat_06d155e24f2d468bb9912fa37110b659,Aprilaire 2516 (31 x 28) - Media Air Cleaner - MERV 16,Aprilaire 2516 (31 x 28) - Media Air Cleaner - MERV 16,AP2516,$483.75,$225.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_5113d3c644474a3e881067a49a1c6b18,BAD Material Package,Material package for the Big Air Drop,"",$462.25,$215.00,false,Each,true
+Equipment,Heat Pumps,Silver,"","",pbmat_4c3967bc1e264125ab3eb7b1553f8eb6,5-Ton Silver Heat Pump,5-Ton Silver Heat Pump,NXH660GKP,$7815.25,$3635.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_4288ad5c2a8e43ed8b36975d3cdc6c55,Turbo 200,Turbo 200 Capacitor,G33-036,$186.41,$82.85,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_6314723d711644f38efbd26e7f2859c4,Turbo 200x,Turbo 200x Capacitor,G33-037,$234.00,$104.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_bb3ae4e43159409ea9e83e8a1c2c9738,Turbo 200 Mini-Oval,Turbo 200 Mini-Oval,G36-687,$54.29,$15.51,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_95f35d967072424292c4a46b6e9d99cb,45/5 Dual Capacitor,45/5 Dual Capacitor,G36-328,$43.58,$12.45,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_226cabd7320b4186ac8aad49c5923a16,35/5 Dual Capacitor,35/5 Dual Capacitor,G36-322,$38.50,$11.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_767081a093e04340b940655e65ff91ea,55/5 Dual Capacitor,55/5 Dual Capacitor,G36-332,$49.35,$14.10,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_26e04da913d04a3ba65918bb357b438d,3.5-5 Ton Hard Start Kit,3.5-5 Ton Hard Start Kit,B16-903,$150.00,$50.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_d77c5097d43349f99c103d97b3d1d206,1-3 Ton Hard Start Kit,1-3 Ton Hard Start Kit,B16-902,$99.00,$33.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_604228c0a43d493290bee0b9f2c74551,30/5 Dual Capacitor,30/5 Dual Capacitor,G36-318,$38.50,$11.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_1d8ceddcf5094c77881768d4d5cd2020,40/5 Dual Capacitor,40/5 Dual Capacitor,G36-325,$42.00,$12.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_1feae277c5c741089681541819f2fb6d,Dual Capacitor,Dual Capacitor,"",$52.50,$15.00,false,Ea,true
+Service Items,Airflow - Ductwork,"","","",pbmat_7b591d4b328847c797e86de86195d094,Access Plenum Materials,Access Plenum Materials,"",$20.00,$5.00,false,Ea,true
+Service Items,Miscellaneous,"","","",pbmat_266d79b7db7a409999e5478ccf6963c6,Inspection Camera Usage,Inspection Camera Usage,"",$10.00,$5.00,false,Ea,false
+Service Items,Airflow - Ductwork,"","","",pbmat_a33a8ae0d03048ee92317b04f7636f0f,Zone Damper,Zone Damper,"",$285.75,$127.00,false,Ea,true
+Service Items,Airflow - Ductwork,"","","",pbmat_5e62a9e2f32a456cba859c5b5540820d,Zone Damper Large,Zone Damper,"",$354.75,$165.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_08b48ab0eb4e451a95f354212c190536,Fin Comb Usage,Fin Comb Usage,"",$4.00,$1.00,false,"",true
+Service Items,A/C - Heat Pump,"","","",pbmat_585abfeecffc4425893cab81bb0ccaed,Schrader Cap,"","",$4.00,$1.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_066377ba8c814d5bb0e0dbf5ffe3b35a,Schrader Core,"","",$4.00,$1.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_e1e3f7ccda28499ba1ba5487469bead9,Locking Schrader Cap,"",CO-SHLD-U4,$24.00,$6.00,false,Ea,true
+Service Items,Miscellaneous,"","","",pbmat_78ab3ab8322e425f91cc774fd93ab0ef,Rags,"","",$2.00,$0.50,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_4d17417d805449b88c5eca02c1b1121d,Coil Cleaner,"","",$20.00,$5.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_43a3edbc3c9d443fb02c23193ef99b2a,Evaporator Coil Cleaner,"",J-B84-509,$42.00,$12.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_5952e16b9cf841ccaee2ac3970594cda,Single Pole Contactor,"",J-L45-026,$56.00,$16.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_116816df07384fd7ac43fa378fee0b2e,Two Pole Contactor,"",J-L45-040,$63.00,$18.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_10373afee180401f9fc863631bc68f32,Crankcase Heater,"",J-B11-844,$78.00,$26.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_aeabd95817724ac08ef2c401ea4f2e7b,Liquid Line Filter Drier,"",J-B17-225,$93.00,$31.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_6bba15d22c2c43b1bec5d4931c1e0278,Sound Blanket,"",J-X81-410,$150.00,$50.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_c3d366513a6c46e68e812d92560a1043,Suction Line Drier,"",J-B12-523,$137.25,$61.00,false,Ea,true
+Healthy Home Solutions,Humidifiers,Humidifiers,"","",pbmat_d15493e2ff0d44f9af85f90a06a40cf7,Fan Powered Humidifier,High output fan powered humidifier,C-700A,$720.25,$335.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_3ad7b40540a64651906da4a7e656dda5,Generic Pump,Generic Pump,"",$860.00,$400.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_d9acddd9fa064c4697998bc554639e1d,Refrigerant Pressure Safety,"","",$78.00,$26.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_0f19fab666e749e881e1c28c74111ca8,Refrigerant Service Valve,"","",$73.50,$21.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_67babae5d53a472aa2e666f245211948,TXV,"","",$177.75,$79.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_2db64630a5b04a979575b9e63d36e147,Reversing Valve,"","",$225.00,$100.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_b625ec96083047a9a3f2a80bb776ed40,Relocate Condensing Unit Material Package,"","",$168.75,$75.00,false,Ea,true
+Service Items,A/C - Heat Pump,"","","",pbmat_23922d4003cc4696b4483b0ffbcca41c,Suction Accumulator,"","",$249.75,$111.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_06a6de7a7ca64e2d9b7c2ac724d1c7f3,Mini Air Vent,"",J-L37-203,$63.00,$18.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_ebb99e8e2aed4d11a67c74c284c14b8b,Large Capacity Air Vent,"",J-L41-552,$387.00,$180.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_7045fb7a0aa44a7590b4cdac51429138,Pump Coupling,"","",$70.00,$20.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_ddd8a76b7b1449cb8de3f30df45a3194,Steam Sight Glass,"","",$40.00,$10.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_fb3db3fc8d3e4f40b689f1a437293f47,Extrol #30 Expansion Tank,"",C-HTX30,$128.25,$57.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_22a3ad0a439a4973a624e26e3f0d80f6,Tri-O-Meter Boiler Gauge,"",J-L39-654,$108.00,$36.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_231129eb60904b6fa8296db029caf7f3,Boiler Pressure Relief Valve,"",J-R55-747,$99.00,$33.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_244e11eefd7944e099476ade370ded3c,Backflow Preventer,"",J-R54-574,$207.00,$92.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_a252436036604861b110b6c5fd210590,Taco 007 Pump,"","",$236.25,$105.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_6d753e931cc8445592da7faf9861b0e1,Automatic Fill Valve,"","",$146.25,$65.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_50868c1e74e5487bb41b2222afbec298,Zone Valve,"","",$227.25,$101.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_1cfe76b49e4b492089b5731ee749d7cb,Honeywell Zone Valve Actuator,"","",$135.00,$60.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_2196776fae2d4ed4a2ac066eb598f42d,Taco Zone Sentry Actuator,"","",$184.50,$82.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_30ec4834b1214ad9a45527e6385e9e2c,0018e ECM Pump,"","",$425.00,$225.00,false,Ea,false
+Service Items,Hydronics,"","","",pbmat_f9161daa81fb4cc5b1b48411dbddc1ea,B&G Series 100 Pump Assembly,"","",$700.00,$430.00,false,Ea,false
+Service Items,Hydronics,"","","",pbmat_80f5b92341584011ae453c89ee8a2305,Low Water Cut Off,"","",$365.50,$170.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_c25aa6a9e4a04fe49cc4c52095f1d464,UP26-99 Pump,Grundfos UP26-99 pump,"",$700.00,$467.00,false,Ea,false
+Service Items,Condensate,"","","",pbmat_9c3d73b44f2940b1af4ed97f649da9da,CO2 Drain Cartridge,"",J-H28-661,$12.00,$3.00,false,Ea,true
+Service Items,Condensate,"","","",pbmat_43bfa016e8464a2cb40d1cecc700169c,Pan & Drain Treatment,"",TTT-RT800S,$8.00,$2.00,false,Ea,true
+Service Items,Condensate,"","","",pbmat_5a42369ac7ef4a6da6545dc62605a357,EZ-Trap,"",C-83114,$56.00,$16.00,false,Ea,true
+Service Items,Condensate,"","","",pbmat_978a53c3fdfa4332a8df1750078d9903,SS2 Condensate Safety Switch,"",C-97087,$84.00,$24.00,false,Ea,true
+Service Items,Condensate,"","","",pbmat_5cba3816a6564d45acc9a196996adc5f,WS-1 Condensate Safety Switch,"",C-WS-1,$166.50,$74.00,false,Ea,true
+Service Items,Condensate,"","","",pbmat_f2031b1e920f4e50aa440c2e8faf5b9a,EZ Trap With Safety Switch,"",C-83210,$132.00,$44.00,false,Ea,true
+Service Items,Condensate,"","","",pbmat_e421b9a4720f4f90816c211463611ba8,Condensate Pump,"",C-554405-MIN160,$121.50,$54.00,false,Ea,true
+Service Items,Condensate,"","","",pbmat_60d228c6f9a844278cfab951b8715fd1,Low Profile Condensate Pump,"",C-554200,$177.75,$79.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_3c1dc6ab38904a3ba7a82d9bd7212d32,Cartridge Fuse,"","",$20.00,$5.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_0e4c0fcbca1b4cd080b9c5c457600170,Low Voltage Fuse,"","",$6.00,$1.50,false,"",true
+Service Items,Controls / Boards,"","","",pbmat_4b95ce2d47fa4faba9aa9f11fea20098,General Purpose Relay,"",J-L37-100,$45.50,$13.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_14cc195508bd42c8b209f4edec82bdef,General Purpose Sequencer,"","",$63.00,$18.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_e0adde0729c64948a51ba3724355d654,Lil Popper,"","",$52.50,$15.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_f6cb793d519f40a9a59d52057495f09c,40va Transformer,"",J-G22-336,$59.50,$17.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_00a5894d40bf435eab895bdbdfb535c1,50 VA Transformer,"",J-L38-900,$108.00,$36.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_9507d7b6de984798a27819616596a482,75 VA Transformer,"",J-L37-310,$148.50,$66.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_2a96a3a7d3b94e189417c742234aa75e,Time Delay Relay,"","",$52.50,$15.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_c2877ce4689248728253609ccfc12962,Universal Defrost Control Board,"",J-L47-933,$301.50,$134.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_fe97d6274b464ef7ad39cad4d3318543,Universal Furnace Control Board,"",J-L43-886,$326.25,$145.00,false,Ea,true
+Service Items,Controls / Boards,"","","",pbmat_db1f32dc6a1543ea981f3b92bfdb7843,Fan Control Center,"",J-L37-811,$144.00,$48.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_47fda24332844a1aa623b2c3b79b3e49,Door Switch,"","",$42.00,$12.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_cb16503707b044b9b057efdf2801992c,Shop Vac Kit,"","",$8.00,$2.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_b1dbd24d8b434f37b9b5cc2fa3aa9b46,Wire Brush Kit,"",J-H26-102,$10.40,$2.60,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_18a70b0c7431424b88552adfc75fda2c,Fusible Link,"","",$20.00,$5.00,false,"",true
+Service Items,Furnaces,"","","",pbmat_f212f832438548cabb3be82598efb294,Flame Sensor,"","",$52.50,$15.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_459a56e52d2d421fb06791b942b53221,Universal Hot Surface Ignitor,"","",$90.00,$30.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_128d5da5d2444488b3e4500bba6ba0c4,Inspection Camera Kit,"","",$4.00,$1.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_cb4b8f56249e4827bb1e5f5995a20f15,Universal Thermocouple,"",J-L37-022,$49.00,$14.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_888c2f8fe0ce4997834aa93bb725ed62,Universal Pressure Switch,"",J-L45-006,$102.00,$34.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_2be910d593bc4e3b83fcf348f98cdc59,Limit Switch,"","",$42.00,$12.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_568c0ac568b242eda3e3494632dc0df6,Pilot Assembly,"","",$150.00,$50.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_5f6d4ff49cfb4510be5d35722dbaba96,Flue Pipe Kit,"","",$90.00,$30.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_a096bb7ba81644ada3123fce3a220c7d,Burner - Set,"","",$150.00,$50.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_b5a13f3ccbfe4fa889716c8dfffb87a1,Universal Gas Valve,"","",$315.00,$140.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_1fc6620300b44597b7f7ef5c0f3cd219,Flue Liner Kit,"","",$494.50,$230.00,false,Ea,true
+Service Items,Humidifiers,"","","",pbmat_ca6714f75aa947eaa03c4f16d9d3438a,Humidifier Solenoid Valve,"",J-B21-079,$78.00,$26.00,false,Ea,true
+Service Items,Humidifiers,"","","",pbmat_90f9a45044bd44959e4a9e5c5b8be378,Manual Humidistat,"",J-B16-870,$150.00,$50.00,false,Ea,true
+Service Items,Humidifiers,"","","",pbmat_c92801b119d347c4843ba6ce3cbddd42,Steam Canister,"",C-AP80,$175.50,$78.00,false,Ea,true
+Service Items,Refrigerant Leak Search,"","","",pbmat_ba315feefd154b8db46a58be5e992b97,Refrigerant Leak Search Kit,"","",$12.00,$3.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_264b349b6c194fc4a4284787b6296ef6,Fan Belt,"","",$40.00,$10.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_02baedd8341d4f6f8c6719d198107ded,Blower Pulley,"",J-L46-537,$108.00,$36.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_886e0dc0e4c64a36b42424ddf93017f4,Blower Shaft & Bearing Kit,"","",$150.00,$50.00,false,"",true
+Service Items,Motors,"","","",pbmat_0538cf5fef2d4ea5882decec69a09f15,Blower Belly Band,"",J-S58-974,$99.00,$33.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_34e2f52125b845b8a6aa0e3d359b05a3,Blower Wheel,"","",$120.00,$40.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_7150f01f32054942a67810132fa687e0,Condenser Fan Blade,"","",$120.00,$40.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_4d3e8228554e4c38a7f7ff8d0c1e3b98,Universal Blower Motor,"","",$337.50,$150.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_7b6b9afa406244d3a0d6eafe4517e8be,Universal Condenser Fan Motor,"",J-S89-577,$247.50,$110.00,false,Ea,true
+Service Items,Motors,"","","",pbmat_d8648860a96642c9ba0fc6d9c3055368,Inducer Fan Assembly,"","",$337.50,$150.00,false,"",true
+Service Items,Thermostats,"","","",pbmat_ae2c4c39600c4556b28abb1573ed9861,T4 Thermostat,"","",$135.00,$60.00,false,Ea,true
+Service Items,Thermostats,"","","",pbmat_de0bbb1aa9ba434b8715ddf9f99cb2a9,T6 Thermostat,"","",$247.50,$110.00,false,Ea,true
+Service Items,Thermostats,"","","",pbmat_1e3a47cf8c9742c68db30437557e0c19,Ecobee 3 Lite,"","",$382.70,$178.00,false,Ea,true
+Service Items,Thermostats,"","","",pbmat_0a64e903ce464443b16be9fff11ebaea,Ecobee 4 Pro,"","",$462.25,$215.00,false,Ea,true
+Service Items,Thermostats,"","","",pbmat_b5e9b7ef05a24653a8e73d82d4817425,Redlink VisionPRO 8000 Thermostat,"","",$419.25,$195.00,false,Ea,true
+Service Items,Thermostats,"","","",pbmat_8ca89c50781048098ea46f1b381c803c,WIFI VisionPRO 8000,"","",$419.25,$195.00,false,Ea,true
+Service Items,Thermostats,"","","",pbmat_d4fc7f0cb6c7478f85aa11a46356d741,Redlink Equipment Interface Module,"","",$207.00,$92.00,false,Ea,true
+Service Items,Thermostats,"","","",pbmat_249bdf6205fc4bd9a03dbe1dfb07947b,Thermostat Relocation Kit,"","",$150.00,$50.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_6e509f73e198438c82858d8166fad817,Level 1 Wiring Repair Kit,"","",$20.00,$5.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_a049860b289f4bc09e09b3ed33f4c228,Level 0 - Wiring Repair Kit,"","",$4.00,$1.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_12849674867c4c7e8bb0905ce5a8da6c,Level 2 - Wiring Repair Kit,"","",$40.00,$10.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_13fb1bf8edfd4df6a36e1df09c3349b2,Single Pole Breaker,"","",$40.00,$10.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_f9216eaf33a1474caed6943ffccec05b,Two Pole Breaker,"","",$52.50,$15.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_b8176ad492bb4bd8ae7238d8eabf9fd0,Level 3 - Wiring Repair Kit,"","",$70.00,$20.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_ab9c9b4f6f454bf8b8c5cd8d068b09d7,Service Disconnect Box,"","",$70.00,$20.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_5e5fd61091c04f3ba4e74f693b672818,Level 4 - Wiring Repair Kit,"","",$90.00,$30.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_a330377a18cf4bc3ae16e9e482590a5c,Level 5 - Wiring Repair Kit,"","",$150.00,$50.00,false,Ea,true
+Service Items,Wiring,"","","",pbmat_76b40a2b7676485cb64d1cb0b4ec58b8,Level 6 - Wiring Repair Kit,"","",$168.75,$75.00,false,Ea,true
+Service Items,Refrigerant,"","","",pbmat_d3cfa4398f5c4da8b3ec57facba5c3ea,R-22,One pound of R-22,"",$99.00,$33.00,false,Ea,true
+Service Items,Refrigerant,"","","",pbmat_ccfad26f86c44f5cbbdb7f05a965d499,R-410A,One pound of R-410A,"",$56.00,$16.00,false,Ea,true
+Service Items,Refrigerant,"","","",pbmat_2fa40392965249f7973f0f1b05e9274f,R-134A,One pound of R-134A,"",$52.50,$15.00,false,Ea,true
+Equipment,90% Furnaces,Gold,Tempstar,"",pbmat_d05d33baf37449429c841544553b022e,"100K BTU, 2-Stage, Variable Speed Furnace",• Tempstar Model: F96VTN1002120A,F96VTN1002120A,$3435.70,$1598.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_8b78be3250a745209fc04d49aa7555ab,90% Furnace Material Package,"","",$1075.00,$500.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_6a2b882a576745f7bc2bc8548d06a0b2,80% Furnace Installation Material,"","",$1075.00,$500.00,false,"",true
+Healthy Home Solutions,Dehumidifiers,Santa Fe,"","",pbmat_d9afa90087004b81ae3abad6035955f0,Santa Fe - 90 Pint / Day,Santa Fe - 90 Pint / Day Whole Home Dehumidifier,DR90A3000,$4330.10,$2014.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_edcd38f744354d119954cdbb8428ebc4,Whole Home Dehumidifier Materials,"","",$430.00,$200.00,false,Ea,true
+Service Items,Water Heaters,"","","",pbmat_86bccbe284b343ca935d82dac2148a89,2.1 Gallon Expansion Tank,"",C-PH-5,$126.00,$56.00,false,Ea,true
+Service Items,Water Heaters,"","","",pbmat_9d3a4e895314473ea3436dc34d7a197f,4.8 Gallon Expansion Tank,"",C-PH-12,$159.75,$71.00,false,Ea,true
+Service Items,Water Heaters,"","","",pbmat_27ae4f3fe74d4e8eb3697a3ade6f35fc,Electric Heating Element,"","",$38.50,$11.00,false,Ea,true
+Service Items,Water Heaters,"","","",pbmat_4a12439576194c62b8b3878cb22d44f1,Electric Thermostat,"","",$70.00,$20.00,false,Ea,true
+Service Items,Water Heaters,"","","",pbmat_8906f33b397f4820a9224c365de56059,Pressure Relief Valve,"","",$63.00,$18.00,false,Ea,true
+Healthy Home Solutions,UV,"","","",pbmat_b9fe938c8ab0411c987e5cff736d4421,Honeywell UV Purifier,"",J-L81-343,$328.95,$153.00,false,Ea,true
+Healthy Home Solutions,Ventilation,"","","",pbmat_19c5614a68534d93b3d7143921bbbde2,"Aprilaire 6in. Ventilation Kit","","",$387.00,$180.00,false,Ea,true
+Healthy Home Solutions,Ventilation,"","","",pbmat_c5322b8638cf4485a6dc34f68b176a76,"6in. Ventilation Material Kit","","",$135.00,$60.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_d711d20d3d034fb287122a917599b037,30A - Electrical Circuit Material Package,"","",$225.00,$100.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_3a34b6cb5de044a88cee6077ab0e2d88,60A - Electrical Circuit Material Package,"","",$376.25,$175.00,false,Ea,true
+Service Items,Capacitors,"","","",pbmat_1db065879e0c49d8b6af91a641b020fb,Single Capacitor,"","",$28.00,$7.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_f9de94c593af4b2488ac3e79e276e79a,Grundfos Alpha Stainless Steel Pump,Stainless steel ECM circulator pump for potable water applications.,"",$666.50,$310.00,false,Ea,true
+Equipment,90% Furnaces,Platinum,Champion,"",pbmat_049afab69b204e8988e675b0a21f50d7,TP9C100,Champion Model: TP9C,"",$4252.70,$1978.00,false,Ea,true
+Installation,Materials,"","","",pbmat_d88e0d79774b42e7804be571e297460b,ICM 493 Surge Protector,ICM 493 Surge Protector,"",$494.50,$230.00,false,Ea,true
+Equipment,Heat Pumps,Gold,Bosch,"",pbmat_c616c72624e3447e9ca64452cc8f4c7a,5-Ton (M-18) Bosch Heat Pump,Bosch Model: BOVA60HDN1M18,BOVA60HDN1M18,$5375.00,$2500.00,false,Ea,true
+Equipment,Water Heaters,Electric Water Heaters,"","",pbmat_d8734dcc0cd144e2b12aa825f91f5ae9,50 Gallon Electric Water Heater,Bradford White Model:  RE250T6-1NCWW-506-284,RE250T6-1NCWW-506-284,$1500.70,$698.00,false,Ea,true
+Equipment,Water Heaters,Electric Water Heaters,"","",pbmat_6435888743584fe78a286165abad0ecb,40 Gallon Electric Water Heater,Bradford White Model: RE340S6-1NCWW-506-284,RE340S6-1NCWW-506-284,$1296.45,$603.00,false,Ea,true
+Equipment,Water Heaters,High Efficiency Gas Water Heaters,"","",pbmat_4c16aee6f17d4e6fbf23094f13397d5b,50 Gallon High Efficiency Water Heater,Bradford White Model: RG1PV50S6N-264,RG1PV50S6N-264,$3313.15,$1541.00,false,Ea,true
+Equipment,Water Heaters,High Efficiency Gas Water Heaters,"","",pbmat_29c04516625d4ae4a03ced9eb1ae27d0,75 Gallon High Efficiency Water Heater,Bradford White Model: RG2PV75H6N,RG2PV75H6N,$5140.65,$2391.00,false,Ea,true
+Equipment,Water Heaters,Standard Efficiency Gas Water Heaters,"","",pbmat_033366e0633f40aeadd0f7cfad9609e3,50 Gallon Water Heater,Bradford White Model: RG250T6N-264-500,RG250T6N-264-500,$1569.50,$730.00,false,Ea,true
+Equipment,Water Heaters,Standard Efficiency Gas Water Heaters,"","",pbmat_8b2acc0712004725ac583701a2f2a2e1,40 Gallon Water Heater,Bradford White Model: RG240T6N-500-506,RG240T6N-500-506,$1421.15,$661.00,false,Ea,true
+Equipment,Water Heaters,Standard Efficiency Gas Water Heaters,"","",pbmat_51c3f77b2f7c42809b53801c3c32cdf7,75 Gallon Water Heater,Bradford White Model: RG275H6N-500-506,RG275H6N-500-506,$3089.55,$1437.00,false,Ea,true
+Equipment,Water Heaters,High Efficiency Gas Water Heaters,"","",pbmat_b623bdaa05d24d8b8b5211dabac048fa,40 Gallon High Efficiency Water Heater,Bradford White Model: ,RG1PV40S6N-506,$3222.85,$1499.00,false,Ea,true
+Equipment,Water Heaters,Tankless Water Heaters,"","",pbmat_9c971b6facc6457594cf00f4a5f4c74b,Standard Tankless Water Heater,Navien Model: NPE-240S2,PNPE0020032G001,$2874.55,$1337.00,false,Ea,true
+Equipment,Water Heaters,Tankless Water Heaters,"","",pbmat_ecf30eed9042494ab34fac3881fa8418,Advanced Tankless Water Heater,Includes Recirculation Pump Navien Model: PNPE0020029B001,PNPE0020029B001,$3010.00,$1400.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_2dcb9611c2cf4eb482dbe1a39a39447f,High Efficiency Flue Package,"","",$430.00,$200.00,false,Ea,true
+Service Items,Miscellaneous,"","","",pbmat_cfb1387bf29c4d54b445c45753e41789,Combustion Analyzer Kit,"","",$20.00,$10.00,false,Ea,false
+Service Items,Furnaces,"","","",pbmat_21b1d0f5162d4791b79c144a72596c4d,1A-30 Oil Filter,General 1A-30 Oil Filter,J-L37-080,$12.00,$3.00,false,Ea,true
+Service Items,Furnaces,"","","",pbmat_7469c4d547454ecb86a489dde4a88bba,Oil Nozzle,"","",$28.00,$7.00,false,Ea,true
+Installation,Materials,"","","",pbmat_15fdd60fc00c4172a30d4df7e661911d,Standard Filter Rack,"","",$150.00,$50.00,false,Ea,true
+Equipment,Boilers,Standard Efficiency,"","",pbmat_29fbd37f66634f27abd814e4e83631c8,Lochinvar CBN90,Lochinvar CBN90,C-100136714,$3532.45,$1643.00,false,Ea,true
+Equipment,Boilers,Platinum,"","",pbmat_df2c1ccb4fd74bb89b8e0ea837e2e194,Knight WHB110N,Lochinvar Knight Model: WHB110N,WHB110N,$7860.40,$3656.00,false,Ea,true
+Service Items,Hydronics,"","","",pbmat_e9259c403fd34a10b08e7e2037fb53e7,Honeywell 4-Zone Controller,Honeywell 4-Zone Controller,"",$326.25,$145.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_666807449ccc47b2a0ed5eaeb86afda6,Primary / Secondary Piping Package,"","",$430.00,$200.00,false,Ea,true
+Installation,Materials,"","","",pbmat_033d9d9cafa842a7a2a359ab0d19aff7,Methanol - 5 Gallon,"","",$193.50,$86.00,false,Ea,true
+Installation,Materials,"","","",pbmat_a225afdc1de34484a51cb7fbb18160a6,Reflectix Insulation - 100',Bubble wrap insulation 4' x 100',C-HVBP48100,$387.00,$180.00,false,Ea,true
+Installation,Materials,"","","",pbmat_95058114f3194c6b9526ba94cede09a8,Spray Glue,Spray glue adhesive,"",$40.00,$10.00,false,Ea,true
+Installation,Materials,"","","",pbmat_32db76aebe8a42808027b3702f892ecf,Biocide,Gallon of biocide,"",$108.00,$36.00,false,Ea,true
+Installation,Material Packages,"","","",pbmat_77dea97b656e4e1092b58140744911c4,Blower Door Kit,"","",$100.00,$0.00,false,Ea,false
+Installation,Material Packages,"","","",pbmat_d04a9cb5403542318f2928ff782c0023,Biocide Duct Treatment,Spray biocide in duct system to treat / kill contaminants on the surfaces of the ductwork.,"",$150.00,$0.00,false,Ea,false
+Equipment,Mini-Splits,Single-Zone,Heat Pumps,Platinum,pbmat_a3ea4009741241c59673d640fbbdc9a2,2-Ton Platinum Single Zone Mini-Split Heat Pump,2-Ton Platinum Single Zone Mini-Split Heat Pump,DLCPRAH24AAK,$5190.10,$2414.00,false,Ea,true
+Equipment,Mini-Splits,Single-Zone,High Wall,Bronze,pbmat_025d78ccb8494a7b991ef93cfa2c0f90,2-Ton Bronze Mini-Split High Wall Unit,2-Ton Bronze Mini-Split High Wall Unit,DLFEHAH24XAK,$1399.65,$651.00,false,"",true
+Healthy Home Solutions,Filtration,Media Filters,"","",pbmat_6454aa4c0c9147c794eb17a4efb3cf3f,Climate Master,29.375X35.75X2 MERV11,"",$75.00,$50.00,false,Ea,false
+Equipment,Air Handlers,Silver,"","",pbmat_29f5ef6929e9430a891904ce692e9f56,2-Ton Silver Air Handler (apartment),"",FMA4X2400AL,$1623.25,$755.00,false,Ea,true
+Equipment,Water Heaters,Tankless Water Heaters,"","",pbmat_ad633e1fdf734cc6b71e31c163fe5523,Standard Tankless Water Heater (NPE-210S2),"Navien Model: NPE-210S2
+
+• 96% efficiency
+• Up to 10 GPM (35 degree rise)",PNPE0020029G001,$2618.70,$1218.00,false,"",true
+Healthy Home Solutions,Humidifiers,Humidifiers,"","",pbmat_35050b07d64347c391099c15ec5955cb,Honeywell Advanced Bypass Humidifier,"• Up to 17 gallons / day
+• Up to 4,000 sq. ft.
+• Water saver model
+• Automatic Damper","",$559.00,$260.00,false,Ea,true
+Equipment,90% Furnaces,Gold,Tempstar,"",pbmat_78441c8359df4f8e88b14a068d7f99af,"80K BTU, 2-Stage, Variable Speed Furnace",• Tempstar Model: F96VTN0802120A,F96VTN0802120A,$3659.30,$1702.00,false,"",true

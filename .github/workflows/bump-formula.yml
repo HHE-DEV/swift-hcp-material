@@ -1,0 +1,18 @@
+name: Bump Formula
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  bump:
+    runs-on: macos-latest
+    steps:
+      - name: Update Homebrew Formula
+        uses: dawidd6/action-homebrew-bump-formula@v3
+        with:
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          tap: HHE-DEV/hcp-material
+          formula: hcp-material
+          force: true
