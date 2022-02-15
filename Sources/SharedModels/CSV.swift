@@ -35,44 +35,6 @@ public struct CSV: Equatable {
     
     return rows
   }
-  
-//  public func updatedRows(
-//    with updates: PartAndCostEnvelope
-//  ) -> (count: Int, rows: [(original: [String], cost: Double)]) {
-//
-//    var updatedCount = 0
-//
-//    guard let partNumberIndex = partNumberIndex,
-//          let costIndex = costIndex
-//    else {
-//      return (updatedCount, [])
-//    }
-//
-//    let rows = rows.map { row -> ([String], Double) in
-//      let partNumber = row[partNumberIndex]
-//      let currentCost = Double(currency: row[costIndex])!
-//
-//      guard !partNumber.isEmpty else {
-//        return (row, currentCost)
-//      }
-//
-//      guard let updatedCost = updates[partNumber] else {
-//        return (row, currentCost)
-//      }
-//
-//      updatedCount += 1
-//
-//      return (row, updatedCost)
-//    }
-//
-//    return (updatedCount, rows)
-//  }
-}
-
-// MARK: Internal Helpers
-extension CSV {
-  
-  
 }
   
 // MARK: Errors

@@ -53,6 +53,19 @@ extension Double {
   var currencyString: String { currencyFormmater.string(for: self)! }
 }
 
+extension Result where Success == Dictionary<String, Double>, Failure == Error {
+  
+  func update(csv: CSV) -> Result<UpdateClient.UpdateResult, Error> {
+    flatMap { updates in
+      do {
+        return .success(try csv.update(with: updates))
+      } catch {
+        return .failure(error)
+      }
+    }
+  }
+}
+
 struct InvalidCSVError: Error { }
 
 fileprivate let currencyFormmater: NumberFormatter = {
