@@ -4,10 +4,11 @@ libdir = $(prefix)/lib
 executable = hcp-material
 
 build:
-	swiftc ./scripts/build.swift
-	./build
-	rm ./build
-
+	swift build \
+		--disable-sandbox \
+		--configuration release \
+		-Xswiftc --cross-module-optimization
+		
 install: build
 	install -d "$(bindir)" "$(libdir)"
 	install ".build/release/$(executable)" "$(bindir)"
